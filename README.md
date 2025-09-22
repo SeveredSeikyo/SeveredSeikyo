@@ -1,62 +1,74 @@
 ---
 
-# 👋 Hi, I’m Thanmay Sadguru Musa
+# Hi there, I’m Thanmay Sadguru Musa 👋
 
-🚀 **Full-Stack Developer | AI & Data Science Student | Builder of Real-World Solutions**
-I turn ideas into scalable apps — from deploying Linux servers with Docker + Cloudflare to building student portals used by 150+ students. Passionate about full-stack development, AI, and solving real-world problems.
+I’m a **Full-Stack Developer** and **AI & Data Science student (B.Tech.)** passionate about building scalable applications, experimenting with AI, and solving real-world problems. From deploying Linux servers with Docker + Cloudflare to building portals used by 150+ students, I love creating products that make an impact.
 
 ---
 
-## 🔧 Tech Stack
+## 🔍 My Interests
 
-💻 **Languages:** JavaScript, Python, SQL
-🎨 **Frontend:** React.js, Next.js, Tailwind CSS
-⚙️ **Backend:** Node.js, Express.js, Nest.js
-🗄️ **Databases:** MongoDB, MySQL, SQLite, PrismaORM
-☁️ **DevOps & Tools:** Linux, Docker, Nginx, Git/GitHub, Cloudflare
+* Full-Stack Development (React, Next.js, Node.js, Nest.js)
+* Artificial Intelligence & Deep Learning
+* Server Management & Cloud (Linux, Docker, Nginx, Cloudflare)
+* Databases & APIs (SQL, MongoDB, PrismaORM, REST, GraphQL)
+
+---
+
+## 🤝 I am open to:
+
+* Freelance or internship opportunities in **full-stack development** or **AI/ML projects**
+* Collaborating on open-source projects
+* Research internships in **AI/ML**
+* Mentoring peers in web development & problem-solving
+
+---
+
+## 🛠 Skills
+
+**Languages:**
+JavaScript · Python · SQL · Shell Script · Markdown
+
+**Frontend:**
+React.js · Next.js · Tailwind CSS
+
+**Backend:**
+Node.js · Express.js · Nest.js
+
+**Databases:**
+MongoDB · MySQL · SQLite · PrismaORM
+
+**ML/DL:**
+Python · NumPy · Pandas · scikit-learn (beginner level)
+
+**Tools & Technologies:**
+Linux · Docker · Nginx · Git/GitHub · Cloudflare
+
+**IDEs & Editors:**
+VS Code · Jupyter Notebook · PyCharm · Vim
 
 ---
 
 ## 📈 GitHub Stats
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=SeveredSeikyo&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165"/>  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeveredSeikyo&theme=tokyonight" alt="GitHub streak" height="165"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=SeveredSeikyo&show_icons=true&theme=tokyonight" height="165"/>  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SeveredSeikyo&theme=tokyonight" height="165"/>  
 </p>  
 
 <p align="center">  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeveredSeikyo&layout=compact&theme=tokyonight" alt="Top Languages"/>  
-</p>  
-
-<p align="center">  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SeveredSeikyo&theme=tokyo-night" alt="GitHub Activity Graph"/>  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeveredSeikyo&layout=compact&theme=tokyonight"/>  
 </p>  
 
 ---
 
-## 🚀 Featured Projects
+## 🌐 Connect with me
 
-* 🎉 [**Vansh App – Event Guide**](https://github.com/SeveredSeikyo/vansh)
-  Next.js + Tailwind PWA for college fest; deployed as Android app, used by 200+ students.
-
-* 🎓 **College Student Portal**
-  React.js + Node.js + SQLite; serving 150+ students for booking sessions & requesting certificates.
-
-* ☁️ **Self-Hosted Server**
-  Linux + Docker + Nginx + Cloudflare; hosting 5+ apps with secure remote access.
-
-* 🍲 **Recipe Sharing Platform**
-  Node.js + MongoDB + Azure; 50K+ recipes with secure image storage.
+📧 Email: **[thanmaysadguru5912@gmail.com](mailto:thanmaysadguru5912@gmail.com)**
+💼 LinkedIn: [linkedin.com/in/thanmaysadguru](https://linkedin.com/in/thanmaysadguru)
 
 ---
 
-## 🌐 Connect with Me
-
-* 📧 **Email:** [thanmaysadguru5912@gmail.com](mailto:thanmaysadguru5912@gmail.com)
-* 💼 **LinkedIn:** [linkedin.com/in/thanmaysadguru](https://linkedin.com/in/thanmaysadguru)
-
----
-
-✨ *Always building. Always learning. Let’s innovate together.*
+✨ *Always building, always learning, always innovating.*
 
 ---
